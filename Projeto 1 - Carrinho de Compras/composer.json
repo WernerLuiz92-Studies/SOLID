@@ -1,0 +1,23 @@
+{
+    "name": "wlg/solid_carrinho_compras",
+    "description": "Projeto de Carrinho de Compras. Usado para aprender mais sobre os princípios das boas práticas da POO - SOLID",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wlg\\Solid\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Wlg\\Solid\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Werner Luiz Gottschalt",
+            "email": "wgottschalt.studies@gmail.com"
+        }
+    ],
+    "require": {}
+}
